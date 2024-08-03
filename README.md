@@ -16,7 +16,7 @@ This repository showcases my problem-solving skills and coding abilities through
 
 | No. | Challenge Title | Live Site |
 | --- | --------------- | --------- |
-| 1   | [Frontend Mentor - QR code component](./Front-End-Mentor-Challenges/Challenge1) | [Live Site](https://coded-by-mj.github.io/Front-end-Mentor-Challenge1/) |
+| 1   | [Frontend Mentor - QR code component](./Front-End-Mentor-Challenges/Challenge1/index.html) | [Live Site](https://coded-by-mj.github.io/Front-end-Mentor-Challenge1/) |
 | 2   | [Frontend Mentor - FAQ accordion](./Front-End-Mentor-Challenges/Challenge2) | [Live Site](https://coded-by-mj.github.io/Front-end-Mentor-Challenge2/) |
 | 3   | [Frontend Mentor - Newsletter Sign up](./Front-End-Mentor-Challenges/Challenge3) | [Live Site](https://coded-by-mj.github.io/Front-end-Mentor-Challenge3/) |
 | 4   | [Frontend Mentor - Age Calculator](./Front-End-Mentor-Challenges/Challenge4) | [Live Site](https://coded-by-mj.github.io/Front-end-Mentor-Challenge4/) |
